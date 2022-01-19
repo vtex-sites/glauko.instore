@@ -56,3 +56,5 @@ And run Cypress locally with:
 ```bash
 yarn cypress:open
 ```
+
+Kadu was here! o/
