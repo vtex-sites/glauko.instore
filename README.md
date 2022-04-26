@@ -8,6 +8,8 @@ This project is to launch a new tenant using the instore-core gatsby plugins.
 yarn
 ```
 
+asdfasdf
+
 PS.: must have npm permission to use private @vtexlab packages
 
 ## Run
