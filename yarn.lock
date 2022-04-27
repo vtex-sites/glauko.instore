@@ -4541,7 +4541,7 @@
     vtex-tachyons "^3.2.2"
     whatwg-fetch "2.0.4"
 
-"@vtexlab/gatsby-theme-instore-core@^0.8.2":
+"@vtexlab/gatsby-theme-instore-core@0.8.2":
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/@vtexlab/gatsby-theme-instore-core/-/gatsby-theme-instore-core-0.8.2.tgz#e25e43819348f18259ce1fca2f317afeadec28d8"
   integrity sha512-EXx4n+tyhRS/N/6GTF1l45BGQ1qpZWEZVYGaq2zBsCcRf6hZ/2JSHDlROjtCGqtcC/PqjqAKnqd0Lz46h+67nA==
